@@ -1,5 +1,6 @@
 # Introduction
 A simple simulation of shell in Linux for learning.
+Support history.
 
 
 # Usage
@@ -21,6 +22,7 @@ for fshell with readline lib.It need to install libreadline5-dev first.
 
 # 简介
 为了学习而编写的Linux下shell的简单模拟实现。
+支持历史命令和补全。
 
 # 用法
 输入
